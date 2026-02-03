@@ -11,7 +11,7 @@ Make sure you have the following installed:
 - [Node.js (LTS)](https://nodejs.org/en/)  
 - [npm](https://www.npmjs.com/) (comes with Node.js)  
 - [jq](https://stedolan.github.io/jq/) (for pretty-printing JSON responses)  
-- GitHub repo cloned with SSH (`git@github.com:avinav456/fragments.git`)  
+- GitHub repo cloned with SSH (`git@github.com:sahilpatel318/fragments.git`)  
 
 ---
 
@@ -19,6 +19,7 @@ Make sure you have the following installed:
 Clone the repo and install dependencies:
 
 ```bash
-git clone git@github.com:avinav456/fragments.git
+git clone git@github.com:sahilpatel318/fragments.git
 cd fragments
 npm install
+
